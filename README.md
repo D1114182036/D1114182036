@@ -1,16 +1,18 @@
-## Hi there 👋
+# D1114182036 星際閃避遊戲
 
-<!--
-**D1114182036/D1114182036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 學生資料
+- 學號：D1114182036
+- 姓名：黃振豪
 
-Here are some ideas to get you started:
+## 專案說明
+這是一個使用 HTML、CSS、JavaScript 製作的網頁小遊戲。玩家操作太空船左右移動，閃避從上方掉落的隕石，撐越久分數越高。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 操作方式
+- 電腦：方向鍵 ← → 或 A / D
+- 手機：使用畫面下方的左右按鈕
+
+## 檔案說明
+- index.html：遊戲主頁面
+- style.css：網頁樣式
+- script.js：遊戲邏輯
+- logo.svg：遊戲 Logo
